@@ -1,3 +1,6 @@
 import cipher from './cipher.js';
 
-console.log(cipher);
+const x = document.getElementById("myTextarea1").value 
+console.log(x);
+
+//console.log(cipher);
