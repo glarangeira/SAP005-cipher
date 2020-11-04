@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-family: 
+}
+
+p.example {
+    text-align: center;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+#encode {
+    display: inline-block;
+}
+
+#decode {
+    display: inline-block;
+}
+
+p {
+    text-align: center;
+}
+
+#root {
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+#numero {
+    margin: 0 auto;
+    display: flex;
+}
+
+body {
+    background: url(background.jpg) right / contain repeat-y, url(background2.jpg) left / contain repeat-y;
+    height: 400px;
+    background-color: #f11835;
+}
