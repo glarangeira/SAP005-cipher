@@ -60,13 +60,12 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 550;
     padding: 0.5em;
-    border: 2em;
 }
 
 body {
     background: url(background.jpg) right / contain repeat-y, url(background2.jpg) left / contain repeat-y;
     height: 400px;
-    background-color: #f11835;
+    background-color: white;
 }
 
 #inCifrar,
